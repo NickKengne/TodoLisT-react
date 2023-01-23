@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoLisT-react/static/css/main.f5b64190.css",
+    "main.js": "/TodoLisT-react/static/js/main.ac527cba.js",
+    "index.html": "/TodoLisT-react/index.html",
+    "main.f5b64190.css.map": "/TodoLisT-react/static/css/main.f5b64190.css.map",
+    "main.ac527cba.js.map": "/TodoLisT-react/static/js/main.ac527cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b64190.css",
+    "static/js/main.ac527cba.js"
+  ]
+}
